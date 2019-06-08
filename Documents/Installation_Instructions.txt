@@ -1,0 +1,29 @@
+===DIABLOS COLD CALL SYSTEM 1.0 INSTALLATION INSTRUCTIONS===
+Updated: 4/29/19
+
+--PROGRAM AUTHORS--
+Jonathan Fujii
+Brendon Kieser
+Cameron McKeown
+Alex Petzold
+Rico Williams
+
+--STEP ONE--
+Install python
+https://www.python.org/downloads/
+
+--STEP TWO--
+Open terminal and enter the following:
+
+$ pip3 install pyinstaller
+$ pip3 install opencv-python
+
+--STEP THREE--
+While in terminal and in the src directory
+of the application enter the following:
+
+$ pyinstaller --onefile --windowed main.py
+
+--STEP FOUR--
+Go to the dist folder located in the src folder
+Execute main (unix executable)

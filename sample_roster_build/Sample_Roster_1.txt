@@ -1,0 +1,7 @@
+CIS_367
+Randi	Hart	951006041	sample@uni.edu	phonetic-spelling	rev_cd	
+Arnold	Mercer	951010229	sample@uni.edu	phonetic-spelling	rev_cd	
+Ollie	Atkins	951008722	sample@uni.edu	phonetic-spelling	rev_cd	
+Laverne	Nash	951003306	sample@uni.edu	phonetic-spelling	rev_cd	
+Elba	Randolph	951005323	sample@uni.edu	phonetic-spelling	rev_cd	
+Dollie	Hart	951007511	sample@uni.edu	phonetic-spelling	rev_cd	
